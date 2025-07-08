@@ -28,7 +28,8 @@ nav {
     flex-wrap: wrap;
 }
 .logo {
-    width: 140px;
+    width: 110px;
+    border-radius: 70px;
 }
 nav ul li {
     display: inline-block;
@@ -307,7 +308,7 @@ nav .fa-solid {
 }
 @media only screen and (max-width: 600px) {
     #header {
-        background-image: url(Images/phone-background.png);
+        background-image: url(Images/phone-background2.jpg);
     }
     .header-text{
         margin-top: 90%;
